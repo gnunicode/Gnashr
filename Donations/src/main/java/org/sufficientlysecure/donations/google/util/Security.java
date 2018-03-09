@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package org.sufficientlysecure.donations.google.util;
+package org.libresufficientlysecure.donations.google.util;
 
 import android.text.TextUtils;
 import android.util.Log;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.sufficientlysecure.donations;
+package org.libresufficientlysecure.donations;
 
 import android.annotation.TargetApi;
 import android.content.ActivityNotFoundException;
@@ -34,9 +34,9 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
 
-import org.sufficientlysecure.donations.google.util.IabHelper;
-import org.sufficientlysecure.donations.google.util.IabResult;
-import org.sufficientlysecure.donations.google.util.Purchase;
+import org.libresufficientlysecure.donations.google.util.IabHelper;
+import org.libresufficientlysecure.donations.google.util.IabResult;
+import org.libresufficientlysecure.donations.google.util.Purchase;
 
 public class DonationsFragment extends Fragment {
 

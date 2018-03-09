@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package org.sufficientlysecure.donations.google.util;
+package org.libresufficientlysecure.donations.google.util;
 
 /**
  * Represents the result of an in-app billing operation.

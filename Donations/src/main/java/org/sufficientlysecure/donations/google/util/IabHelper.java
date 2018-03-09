@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package org.sufficientlysecure.donations.google.util;
+package org.libresufficientlysecure.donations.google.util;
 
 import android.app.Activity;
 import android.app.PendingIntent;
