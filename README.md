@@ -1,37 +1,34 @@
-Gnashr - A liberated version of Rashr (forked from [here](https://github.com/dslnexus/Rashr))
+A liberated version of Rashr (forked from [here](https://github.com/dslnexus/Rashr))
 ====================
 
 This app requires [ROOT] access!
-Please do not use this app thoughtless and evaluating them without deeper KNOWLEDGE for Android (Root, Custom Recovery, etc.)
+Please do not use this app if you don't know what you're doing.
 
 ----- Description -----
 
-This app flashes and backups your device recovery and kernel without rebooting it very fast and easy without a PC or any outside influence.
+This app flashes and backups your device recovery and kernel without rebooting it very quickly and easily without a PC.
 
-This app have over 1500 build-in recovery IMGs (ClockworkMod/TWRP/Philz) of course you can choose other IMGs from internal and external storage.
+This app has over 1500 build-in recovery IMGs (ClockworkMod/TWRP/Philz) and of course you can choose other IMGs from internal and external storage.
 
-Over 90% of all devices will be supported by the App.
+This app intends to support over 90% of devices.
 
-This project is fully open-source if you want to help me with unsupported devices you can use the report button or contact me over XDA.
+This project is fully libre software.
 
-★Open-Source (on GitHub: https://github.com/dslnexus/Rashr)
+★Free/libre software
 ★OpenRecovery Script manager to flash ZIPs
 ★Over 1500 Build-in Recoveries (Clockworkmod/Touch, Team Win Recovery Project and Philz-Touch)
 ★Flash Kernel and Recoveries without PC
 ★Flash already downloaded IMGs from internal and external storage
 ★Backup Kernel and Recovery IMGs without PC
 ★Needs Root
-★Full command logging for more control what this App is doing
-★If you don't want to support my work you are able to disable the Ads
-★Free full app without Ads and any restrictions
+★Full command logging for more control and transparency
 
-★Support my Work only if you want (with Ads or In-App donations)
+★Support upstream if you want (with In-App donations)
 
------ Rights explanation -----
+----- Permissions explanation -----
 
 -Read and write on external storage: save recoveries images or read already downloaded images
 -Full network access: download recoveries
--Google Play billing: donations over Google Play
 -[normally managed by Superuser-App]Full access to all functions of the device: Flashing recoveries and kernel
 
 Screenshots
