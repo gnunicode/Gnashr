@@ -1,7 +1,7 @@
 A liberated version of Rashr (forked from [here](https://github.com/dslnexus/Rashr))
 ====================
 
-This app requires [ROOT] access!
+This app requires root access!
 Please do not use this app if you don't know what you're doing.
 
 ----- Description -----
