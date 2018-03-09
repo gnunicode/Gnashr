@@ -31,21 +31,12 @@ This project is fully libre software.
 -Full network access: download recoveries
 -[normally managed by Superuser-App]Full access to all functions of the device: Flashing recoveries and kernel
 
-Screenshots
-===================================
-
-[![Screenshot](https://raw.githubusercontent.com/DsLNeXuS/Rashr/master/Screenshots/main.png)]
-[![Screenshot](https://raw.githubusercontent.com/DsLNeXuS/Rashr/master/Screenshots/main-reboot.png)]
-[![Screenshot](https://raw.githubusercontent.com/DsLNeXuS/Rashr/master/Screenshots/menu-drawer.png)]
-[![Screenshot](https://raw.githubusercontent.com/DsLNeXuS/Rashr/master/Screenshots/recovery-script.png)]
-[![Screenshot](https://raw.githubusercontent.com/DsLNeXuS/Rashr/master/Screenshots/settings.png)]
-
 Compile instructions
 ===================================
 
 To compile Rashr download the Source and needed Libraries:
 
-Rashr:     https://github.com/DsLNeXuS/Rashr
+Rashr-libre:     https://github.com/gnunicode/rashr-libre
 
 [Libraries]:        All Libraries are included in the repository and pre-configured for
                     gradle on Android Studio
