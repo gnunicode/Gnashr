@@ -1,4 +1,4 @@
-Rashr - The mobile Android Flash-Tool
+Gnashr - A liberated version of Rashr (forked from [here](https://github.com/dslnexus/Rashr))
 ====================
 
 This app requires [ROOT] access!
