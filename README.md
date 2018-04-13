@@ -38,8 +38,7 @@ To compile Rashr download the Source and needed Libraries:
 
 Rashr-libre:     https://github.com/gnunicode/rashr-libre
 
-[Libraries]:        All Libraries are included in the repository and pre-configured for
-                    gradle on Android Studio
+[Libraries]:        All Libraries are included in the repository
 
 Import all Projects in to your IDE and set it on the dependencies list
 
