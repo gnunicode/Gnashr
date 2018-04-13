@@ -23,7 +23,7 @@ This project is fully libre software.
 ★Needs Root
 ★Full command logging for more control and transparency
 
-★Support upstream if you want (with In-App donations)
+★Support upstream if you find this valuable.
 
 ----- Permissions explanation -----
 
